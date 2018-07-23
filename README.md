@@ -14,7 +14,7 @@ If you aren't sure about something, feel free to drop a line personally to Yo Ye
 
 ## How can I submit an item?
 
-We always have an issue accepting submissions for the next newsletter. Look for the "upcoming issue" tag and leave a comment with a description of the item you'd like to share!
+We always have an issue accepting submissions for the next newsletter. Look for the "[upcoming issue](https://github.com/OBF/newsletter/issues?q=is%3Aissue+is%3Aopen+label%3Aupcoming-issue)" tag and leave a comment with a description of the item you'd like to share!
 
 
 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
