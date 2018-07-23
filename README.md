@@ -1,12 +1,14 @@
 # OBF Newsletter
 
+[View table of contents for historical issues](table-of-contents.md)
+
 ## Open call for content
 
 The OBF newsletter aims to provide updates for member projects, members, and interesting open source/science/bioinformatics links. All contributions are welcome, although they will be subject to a brief review process.
 
 ## What can I contribute?
 
-This could be a new project launch, an interesting update or release, a link to useful resources (e.g. some nice biology related icons or an open source tool that could be useful, etc. Promoting yourself or your workplace is totally ok here - this is literally what the newsletter is for, within reason! 
+This could be a new project launch, an interesting update or release, a link to useful resources (e.g. some nice biology related icons or an open source tool that could be useful, etc. Promoting yourself or your workplace is totally ok here - this is literally what the newsletter is for, within reason!
 
 If you aren't sure about something, feel free to drop a line personally to Yo Yehudi to discuss it, e.g. via [twitter](https://twitter.com/yoyehudi) or email (yochannah@gmail.com).
 
