@@ -5,3 +5,4 @@
 
 ## 2019 
 - [January 2019](newsletters/2019-01.md)
+- [May 2019](newsletters/2019-05.md)
