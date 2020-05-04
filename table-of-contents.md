@@ -9,4 +9,5 @@
 - [November 2019](newsletters/2019-11.md)
 
 ## 2020
-- Next issue: [May 2020 underdevelopment](https://github.com/OBF/newsletter/issues/11)
+- [May 2020](newsletters/2020-05.md)
+- Next issue: [under development](https://github.com/OBF/newsletter/issues/12)
