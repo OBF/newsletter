@@ -1,6 +1,6 @@
 ---
-name: Custom issue template
-about: Describe this issue template's purpose here.
+name: Newsletter call for content
+about: create a new issue to collate content after each newsletter release. 
 title: Issue [N] of the newsletter
 labels: upcoming-issue, your-content-needed!
 assignees: ''
