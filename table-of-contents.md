@@ -1,8 +1,9 @@
 # Open Bioinformatics Foundation Newsletter Table of Contents
 
 ## 2020
+- Next issue: [under development](https://github.com/OBF/newsletter/issues/13)
+- [September 2020](newsletters/2020-05.md)
 - [May 2020](newsletters/2020-05.md)
-- Next issue: [under development](https://github.com/OBF/newsletter/issues/12)
 
 ## 2019 
 - [January 2019](newsletters/2019-01.md)
