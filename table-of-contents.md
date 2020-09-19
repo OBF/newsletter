@@ -2,7 +2,7 @@
 
 ## 2020
 - Next issue: [under development](https://github.com/OBF/newsletter/issues/13)
-- [September 2020](newsletters/2020-05.md)
+- [September 2020](newsletters/2020-09.md)
 - [May 2020](newsletters/2020-05.md)
 
 ## 2019 
