@@ -1,6 +1,9 @@
 # OBF Newsletter
 
-[View table of contents for historical issues](table-of-contents.md)
+If you want to receive our (low-frequency) newsletter: We are sending it through the _[bosc-announce](http://mailman.open-bio.org/mailman/listinfo/bosc-announce/)_ and _[open-bio-l](http://mailman.open-bio.org/mailman/listinfo/open-bio-l/)_ mailing lists. 
+ 
+
+You can [view table of contents for historical issues](table-of-contents.md)
 
 ## Open call for content
 
