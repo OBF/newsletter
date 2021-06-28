@@ -13,7 +13,7 @@ The OBF newsletter aims to provide updates for member projects, members, and int
 
 This could be a new project launch, an interesting update or release, a link to useful resources (e.g. some nice biology related icons or an open source tool that could be useful, etc. Promoting yourself or your workplace is totally ok here - this is literally what the newsletter is for, within reason!
 
-If you aren't sure about something, feel free to drop a line personally to Yo Yehudi to discuss it, e.g. via [twitter](https://twitter.com/yoyehudi) or email (yochannah@gmail.com).
+If you aren't sure about something, feel free to drop a line personally to Bastian Greshake Tzovaras to discuss it, e.g. via [twitter](https://twitter.com/gedankenstuecke) or email (bgreshake@googlemail.com).
 
 ## How can I submit an item?
 
