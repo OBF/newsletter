@@ -8,7 +8,7 @@ _This email was sent to the [bosc-announce](https://groups.google.com/g/bosc-ann
 
 # OBF Newsletter DATE HERE
 
-TL;DR of updates in 1-2 sentences.
+Highlights from BOSC, [other headlines]
 
 In longer form: 
 
