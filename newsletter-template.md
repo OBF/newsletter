@@ -4,7 +4,7 @@ tags: obf
 
 _Having trouble viewing this email or looking for a permalink? [View this newsletter in your browser](https://github.com/OBF/newsletter/blob/master/newsletters/FIX THIS LINK)._
 
-_This email was sent to the email to the [bosc-announce](http://mailman.open-bio.org/mailman/listinfo/bosc-announce/) and [open-bio-l](http://mailman.open-bio.org/mailman/listinfo/open-bio-l/) lists._
+_This email was sent to the [bosc-announce](https://groups.google.com/g/bosc-announce) and [open-bio-l](http://mailman.open-bio.org/mailman/listinfo/open-bio-l/) mailing lists._
 
 # OBF Newsletter DATE HERE
 
