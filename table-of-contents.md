@@ -1,8 +1,11 @@
 # Open Bioinformatics Foundation Newsletter Table of Contents
 
+## 2022
+- Next issue: [under development (post-BOSC)](https://github.com/OBF/newsletter/issues/21)
+
 ## 2021
-- Next issue: [under development](https://github.com/OBF/newsletter/issues/15)
-- [March 2021](https://github.com/OBF/newsletter/blob/master/newsletters/2021-02.md)
+- [September 2021](newsletters/2021-09.md)
+- [March 2021](newsletters/2021-02.md)
 
 ## 2020
 - [September 2020](newsletters/2020-09.md)
