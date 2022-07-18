@@ -42,7 +42,7 @@ Text to add
 
 ### Your content needed for the next issue!
 
-Tell us about the things that catch your attention in the open source bioinformatics world! If you have an exciting project update, request for feedback, or interesting link, [feel free to share it with us on GitHub](https://github.com/OBF/newsletter/issues/FIX THIS LINK), or contact Yo Yehudi ([Twitter: @yoyehudi](https://twitter.com/yoyehudi), [Email: yochannah@gmail.com](mailto:yochannah@gmail.com)) if you're not sure whether or not your content is suitable for our newsletter - we're looking for content that's primarily open source / science related.
+Tell us about the things that catch your attention in the open source bioinformatics world! If you have an exciting project update, request for feedback, or interesting link, [feel free to share it with us on GitHub](https://github.com/OBF/newsletter/issues/FIX THIS LINK), or contact Geraldine Van der Auwera (Twitter: [@VdaGeraldine](https://twitter.com/VdaGeraldine), Email: [geraldine@broadinstitute.org](mailto:geraldine@broadinstitute.org)) if you're not sure whether or not your content is suitable for our newsletter. We're looking for content that's primarily open source / science related.
 
 
 
