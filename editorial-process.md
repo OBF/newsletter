@@ -14,7 +14,7 @@ _This doc aims to document the process by which the newsletter is created and di
   - [...? Anything else to note?]
 7. When the draft is complete, open a PR and ask OBF board members (via OBF slack) to review/comment. Iterate until approval. 
 8. Once the draft has been approved, close the issue calling for contributions and merge the PR.
-9. Send the newsletter out via the mailing lists, bosc-announce (Google Groups will require moderation for first time) and open-bio-l (mailman requires subscribing first). Forward to the OBF Board noting mailing list moderation may be required.
+9. Send the newsletter out via the mailing lists, bosc-announce (Google Groups will require moderation for first time) and open-bio-l (mailman requires subscribing first). Forward the newsletter to the OBF Board, alerting them that mailing list moderator approval may be required.
 10. Sit down with your preferred relaxing beverage and look forward to doing it all again in 3 months.
 
 
