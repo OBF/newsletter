@@ -1,7 +1,14 @@
 # Open Bioinformatics Foundation Newsletter Table of Contents
 
+## 2024
+- [February/March 2024](newsletters/2024-03.md)
+
+## 2023
+- [September/October 2023](newsletters/2023-09.md)
+- [February/March 2023](newsletters/2023-02.md)
+  
 ## 2022
-- Next issue: [under development (post-BOSC)](https://github.com/OBF/newsletter/issues/21)
+- [July/August/September 2022](newsletters/2022-07.md)
 
 ## 2021
 - [September 2021](newsletters/2021-09.md)
