@@ -13,7 +13,7 @@ The OBF newsletter aims to provide updates for member projects, members, and int
 
 This could be a new project launch, an interesting update or release, a link to useful resources (e.g. some nice biology related icons or an open source tool that could be useful, etc. Promoting yourself or your workplace is totally ok here - this is literally what the newsletter is for, within reason!
 
-If you aren't sure about something, feel free to drop a line personally to Geraldine Van der Auwera to discuss it, e.g. via [twitter](https://twitter.com/VdaGeraldine) or email (geraldine@broadinstitute.org).
+If you aren't sure about something, feel free to drop a line personally to Bastian Greshake Tzovaras to discuss it, e.g. via [Mastodon](https://scholar.social/@gedankenstuecke) or email (bgreshake@proton.me).
 
 ## How can I submit an item?
 
