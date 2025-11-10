@@ -1,5 +1,9 @@
 # Open Bioinformatics Foundation Newsletter Table of Contents
 
+## 2025
+- [November 2025](newsletters/2025-11.md)
+- [February 2025](newsletters/2025-02.md)
+
 ## 2024
 - [February/March 2024](newsletters/2024-03.md)
 
